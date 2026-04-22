@@ -9,7 +9,7 @@ jobs:
  test:
     runs-on: ubuntu-latest
     steps:
-     - name: test phase
+     - name: test phase-1
      run: echo "running test cases"
 
      deploy: 
